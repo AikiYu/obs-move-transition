@@ -20,3 +20,4 @@ Or enter `flatpak install com.obsproject.Studio.Plugin.MoveTransition` on your t
 
 # Donations
 https://www.paypal.me/exeldro
+
